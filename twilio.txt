@@ -1,3 +1,0 @@
-# Twilio Account credentials
-accountSid = "ACe217b51fde0512a5c29deaad32982559"
-authToken = "6e1f1f67ce9e1a27dfc012f5f2f21fda"
